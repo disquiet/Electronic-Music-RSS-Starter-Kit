@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>disquiet</title>
+		<description>disquiet's subscription list. List created by feedlandDatabase v0.8.14.</description>
+		<dateModified>Fri, 31 Jul 2026 16:56:53 GMT</dateModified>
+		</head>
+	<body>
+		<outline type="rss" text="@roulettenyc.bsky.social - Roulette_NYC" xmlUrl="https://bsky.app/profile/did:plc:6ddh5cfzv474dcjmahlyi6re/rss" htmlUrl="https://bsky.app/profile/roulettenyc.bsky.social" category="venue" />
+		<outline type="rss" text="@grayarea.org - Gray Area" xmlUrl="https://bsky.app/profile/did:plc:2bwj5afpy6oirze4ijhexpph/rss" htmlUrl="https://bsky.app/profile/grayarea.org" category="venue" />
+		<outline type="rss" text="@cafeotodalston.bsky.social - Cafe OTO" xmlUrl="https://bsky.app/profile/did:plc:jtrie4hqrkbnn6lyg65bv5zt/rss" htmlUrl="https://bsky.app/profile/cafeotodalston.bsky.social" category="venue" />
+		<outline type="rss" text="@kfw.bsky.social - Keith Fullerton Whitman" xmlUrl="https://bsky.app/profile/did:plc:xb4mg6okac4qq675b7kpmrfp/rss" htmlUrl="https://bsky.app/profile/kfw.bsky.social" category="musician,social media" />
+		<outline type="rss" text="@audiobulb.bsky.social - Audiobulb Records" xmlUrl="https://bsky.app/profile/did:plc:6qoa7tgs7rru2t2qafoursay/rss" htmlUrl="https://bsky.app/profile/audiobulb.bsky.social" category="social media,label" />
+		<outline type="rss" text="@touch33.net - Touch" xmlUrl="https://bsky.app/profile/did:plc:rlkyr2aw4lqtzgecfscdtd3m/rss" htmlUrl="https://bsky.app/profile/touch33.net" category="social media,label" />
+		<outline type="rss" text="@musex1.bsky.social - william basinski" xmlUrl="https://bsky.app/profile/did:plc:fvtevv54umfa3silieslyiuc/rss" htmlUrl="https://bsky.app/profile/musex1.bsky.social" category="musician,social media" />
+		<outline type="rss" text="@imprec.bsky.social - Important Records" xmlUrl="https://bsky.app/profile/did:plc:7wdkfcdi7yasysx3qwt3t23c/rss" htmlUrl="https://bsky.app/profile/imprec.bsky.social" category="social media,label" />
+		<outline type="rss" text="@jeremywentworth.com - Jeremy Wentworth 🎧🎛🎚" xmlUrl="https://bsky.app/profile/did:plc:jz6hp2a7qtnrf7gthgt6dpxg/rss" htmlUrl="https://bsky.app/profile/jeremywentworth.com" category="social media" />
+		<outline type="rss" text="@noisejockey.bsky.social - Nathan Moody" xmlUrl="https://bsky.app/profile/did:plc:cvbozfs25js6mwzrvolgognq/rss" htmlUrl="https://bsky.app/profile/noisejockey.bsky.social" category="musician,social media" />
+		<outline type="rss" text="Luca Longobardi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClK4TUTsJsM-8iLrFj12zNA" htmlUrl="https://www.youtube.com/channel/UClK4TUTsJsM-8iLrFj12zNA" category="youtube,musician" />
+		<outline type="rss" text="MAKEN0ISE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy1tvekyTbDs35hwcaWHbpg" htmlUrl="https://www.youtube.com/channel/UCy1tvekyTbDs35hwcaWHbpg" category="youtube" />
+		<outline type="rss" text="Emiliano" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcyoXr73cdMEyg-w4oMksdw" htmlUrl="https://www.youtube.com/channel/UCcyoXr73cdMEyg-w4oMksdw" category="youtube" />
+		<outline type="rss" text="Omri Cohen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuWKHSHTHMV_nVSeNH4gYAg" htmlUrl="https://www.youtube.com/channel/UCuWKHSHTHMV_nVSeNH4gYAg" category="youtube" />
+		<outline type="rss" text="Andrew Tasselmyer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOh36fc65ZsIJhbaXbG6S5g" htmlUrl="https://www.youtube.com/channel/UCOh36fc65ZsIJhbaXbG6S5g" category="youtube,musician" />
+		<outline type="rss" text="keinseier" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK1VzkQvCq9G5SbOP9o_89Q" htmlUrl="https://www.youtube.com/channel/UCK1VzkQvCq9G5SbOP9o_89Q" category="youtube,musician" />
+		<outline type="rss" text="hijaq." xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC78FEqp2ZlZeWbxTzhWVB5w" htmlUrl="https://www.youtube.com/channel/UC78FEqp2ZlZeWbxTzhWVB5w" category="youtube,musician" />
+		<outline type="rss" text="Scanner" xmlUrl="https://scannerdot.com/feed/" htmlUrl="https://scannerdot.com/" category="blog,musician" />
+		<outline type="rss" text="a closer listen" xmlUrl="https://acloserlisten.com/feed/" htmlUrl="https://acloserlisten.com/" category="blog" />
+		<outline type="rss" text="Beta’s Substack" xmlUrl="https://andybeta.substack.com/feed" htmlUrl="https://andybeta.substack.com/" category="newsletter" />
+		<outline type="rss" text="Futurism Restated" xmlUrl="https://futurismrestated.substack.com/feed" htmlUrl="https://futurismrestated.substack.com/" category="newsletter" />
+		<outline type="rss" text="Synthtopia" xmlUrl="https://www.synthtopia.com/feed/" htmlUrl="https://www.synthtopia.com/" category="blog" />
+		<outline type="rss" text="blissblog" xmlUrl="https://blissout.blogspot.com/feeds/posts/default" htmlUrl="https://blissout.blogspot.com/" category="blog" />
+		<outline type="rss" text="Experimental Melbourne" xmlUrl="https://exp-melb.blogspot.com/feeds/posts/default" htmlUrl="https://exp-melb.blogspot.com/" category="blog" />
+		<outline type="rss" text="Igloo Magazine" xmlUrl="https://igloomag.com/feed" htmlUrl="https://igloomag.com/" category="blog" />
+		<outline type="rss" text="HAINBACH" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeovElJP0n0i8ADaPsRSd8g" htmlUrl="https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g" category="youtube,musician" />
+		<outline type="rss" text="CDM Create Digital Music" xmlUrl="https://cdm.link/feed/" htmlUrl="https://cdm.link/" category="blog" />
+		<outline type="rss" text="Disquiet" xmlUrl="https://disquiet.com/feed/" htmlUrl="https://disquiet.com/" category="blog" />
+		<outline type="rss" text="Femi Shonuga-Fleming" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDMKN93aTUykTHz7tOQKw3A" htmlUrl="https://www.youtube.com/channel/UCDMKN93aTUykTHz7tOQKw3A" category="youtube,musician" />
+		<outline type="rss" text="Modular Ambient" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz8rf873SInYLNFuyXLgKmA" htmlUrl="https://www.youtube.com/channel/UCz8rf873SInYLNFuyXLgKmA" category="youtube,musician" />
+		<outline type="rss" text="MAURILIA STATION" xmlUrl="https://tristanlouthrobins.wordpress.com/feed/" htmlUrl="https://tristanlouthrobins.wordpress.com/" category="blog,musician" />
+		<outline type="rss" text="anna friz" xmlUrl="https://nicelittlestatic.com/feed/" htmlUrl="https://nicelittlestatic.com/" category="blog,musician" />
+		</body>
+	</opml>
